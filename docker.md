@@ -199,20 +199,7 @@ Unbound not resolving:
 Usually caused by a bad config file — restarted container and verified folder contents.
 
 10. Files Included in My Submission
-
-I have included the following:
-
 docker-compose.yml
 
-This documentation file (docker-dns-nextcloud.md)
 
-GitHub Pages link (submitted separately)
 
-Discussion board post of this same documentation
-
-11. GitHub Pages Link
-
-Insert URL here:
-https://yourgithubusername.github.io
-
-If you want, I can also:
