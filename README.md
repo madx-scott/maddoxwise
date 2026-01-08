@@ -6,34 +6,34 @@ Each project includes documentation, configuration notes, and lessons learned.
 ---
 
 ###  Docker & Infrastructure
-- **[Docker Application Deployment](https://madx-scott.github.io/docker)**  
+- **[Docker Application Deployment](https://Maddox-Wise.github.io/docker)**  
   Containerized application deployment using Docker and Docker Compose, focusing on service orchestration and reliability.
 
-- **[Homelab Infrastructure](https://madx-scott.github.io/Homelab-Infrastructure)**  
+- **[Homelab Infrastructure](https://Maddox-Wise.github.io/Homelab-Infrastructure)**  
   Self-hosted Linux homelab running multiple services with an emphasis on networking, monitoring, and security best practices.
 
 ---
 
 ###  Operating Systems
-- **[Arch Linux Installation](https://madx-scott.github.io/arch-install-docs)**  
+- **[Arch Linux Installation](https://Maddox-Wise.github.io/arch-install-docs)**  
   Step-by-step documentation of a manual Arch Linux installation, including system configuration and troubleshooting.
 
 ---
 
 ###  Networking & Secure Access
-- **[WireGuard Lab](https://madx-scott.github.io/wireguard-lab)**  
+- **[WireGuard Lab](https://Maddox-Wise.github.io/wireguard-lab)**  
   Secure VPN deployment lab using WireGuard, covering key exchange, peer configuration, and encrypted tunnels.
 
 ---
 
 ###  Backup & Resilience
-- **[Automated Backups](https://madx-scott.github.io/Backups)**  
+- **[Automated Backups](https://Maddox-Wise.github.io/Backups)**  
   Automated, encrypted backup workflows with retention policies and verification to support disaster recovery planning.
 
 ---
 
 ###  Offensive Security
-- **[Self-Hosted Penetration Testing Lab](https://madx-scott.github.io/Pentest)**  
+- **[Self-Hosted Penetration Testing Lab](https://Maddox-Wise.github.io/Pentest)**  
   Isolated virtual lab environment for ethical penetration testing, reconnaissance, and vulnerability analysis.
 
 ---
