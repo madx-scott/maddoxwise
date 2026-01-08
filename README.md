@@ -14,12 +14,6 @@ Each project includes documentation, configuration notes, and lessons learned.
 
 ---
 
-###  Operating Systems
-- **[Arch Linux Installation](https://Maddox-Wise.github.io/arch-install-docs)**  
-  Step-by-step documentation of a manual Arch Linux installation, including system configuration and troubleshooting.
-
----
-
 ###  Networking & Secure Access
 - **[WireGuard Lab](https://Maddox-Wise.github.io/wireguard-lab)**  
   Secure VPN deployment lab using WireGuard, covering key exchange, peer configuration, and encrypted tunnels.
