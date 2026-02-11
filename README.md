@@ -31,5 +31,6 @@ Each project includes documentation, configuration notes, and lessons learned.
   Isolated virtual lab environment for ethical penetration testing, reconnaissance, and vulnerability analysis.
 
 ---
-
-> 📌 **Goal:** Build real-world cybersecurity and system administration skills through practical, well-documented projects.
+### Incident Preparation & Response
+- **[Unknown Device Monitor](https://Maddox-Wise.github.io/UDM)**  
+  Lightweight Python monitoring script that alerts on unknown active network connections.
